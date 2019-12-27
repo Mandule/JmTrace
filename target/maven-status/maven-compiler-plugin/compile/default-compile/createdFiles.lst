@@ -1,0 +1,5 @@
+jmtrace\MethodAdapter.class
+jmtrace\Transformer.class
+jmtrace\Agent.class
+jmtrace\TraceClass.class
+jmtrace\ClassAdapter.class
